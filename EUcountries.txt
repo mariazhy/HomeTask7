@@ -1,0 +1,27 @@
+Austria,True
+Belgium,False
+Bulgaria,True
+Croatia,True
+Republic of Cyprus,False
+Czech Republic,False
+Denmark,False
+Estonia,False
+Finland,True
+France,True
+Germany,False
+Greece,True
+Hungary,False
+Ireland,False
+Italy,True
+Latvia,True
+Lithuania,True
+Luxembourg,False
+Malta,False
+Netherlands,False
+Poland,True
+Portugal,True
+Romania,False
+Slovakia,False
+Slovenia,False
+Spain,True
+Sweden,True
